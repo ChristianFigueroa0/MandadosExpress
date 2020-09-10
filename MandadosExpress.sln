@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MandadosExpress", "MandadosExpress\MandadosExpress.csproj", "{0F73971F-91FA-44BB-AFEB-80CD37B85056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MandadosExpress.Client", "MandadosExpress.Client\MandadosExpress.Client.csproj", "{8B9722E6-7E5C-4EDB-9B8E-96913E1D0B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F73971F-91FA-44BB-AFEB-80CD37B85056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F73971F-91FA-44BB-AFEB-80CD37B85056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F73971F-91FA-44BB-AFEB-80CD37B85056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F73971F-91FA-44BB-AFEB-80CD37B85056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9722E6-7E5C-4EDB-9B8E-96913E1D0B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9722E6-7E5C-4EDB-9B8E-96913E1D0B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9722E6-7E5C-4EDB-9B8E-96913E1D0B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9722E6-7E5C-4EDB-9B8E-96913E1D0B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63E8595A-CDD9-4717-A2E4-12E064CA025E}
+	EndGlobalSection
+EndGlobal
